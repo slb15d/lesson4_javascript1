@@ -13,7 +13,7 @@ Sara Beeler
 This assignment taught me how to create and declare variables, add additional code to programs, and how to convert a string to a float.
 
 ### View Project:
-
+https://slb15d.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
 1. I learned that using the command var, creates a variable that I can use for the rest of my program.
